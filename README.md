@@ -15,7 +15,7 @@
 ### Navigation
 
 - Academic year 2020/2021
-- [Academic year 2021/2022](../../tree/AR_2021-2022)
+- [Academic year 2021/2022](../../tree/AY_2021-2022)
 - Academic year 2022/2023
 
 
