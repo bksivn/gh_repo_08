@@ -1,0 +1,22 @@
+<a href="https://www.fri.uniza.sk/" target="_blank">
+  <img width="100%" height="120" src="https://raw.githubusercontent.com/bksivn/Hello/main/Logo_FRI_UNIZA_horizontalne_farebne_s_pozadim_s_ochrannou_zonou_EN.svg">
+</a>
+
+<br/>
+<br/>
+
+[![Academic Year](https://img.shields.io/static/v1?label=Academic%20Year&message=2021/2022&color=ffb81c&style=flat-square "Academic Year: 2021/2022")](#!)
+[![Last Update](https://img.shields.io/github/last-commit/bksivn/Hello/main?label=Last%20Update&color=ffb81c&style=flat-square "Last Update")](#!)
+[![License](https://img.shields.io/static/v1?label=License&message=CC%20BY%204.0&color=lightgray&style=flat-square "License: CC BY 4.0")](http://creativecommons.org/licenses/by/4.0/)
+
+
+
+# ...
+
+
+### Academic Year
+
+- 2020/2021
+- [2021/2022](https://github.com/bksivn/gh_repo_08/tree/AR_2021-2022)
+- [2021/2022](../../tree/AR_2021-2022)
+- 2022/2023
