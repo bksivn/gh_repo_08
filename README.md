@@ -16,7 +16,7 @@
 ### Winter semester courses
 
 - [Basics of Electronics](./AY_2021-2022__01_Winter_Semester/01_ZEL_Basics_of_Electronics#basics-of-electronics-zel) (ZEL)
-- [Process Analysis](./AY_2021-2022__01_Winter_Semester/02_ANP_Process_Analysis) (ANP)
+- [Process Analysis](./AY_2021-2022__01_Winter_Semester/02_ANP_Process_Analysis#process-analysis-anp) (ANP)
 - [Informatics](./AY_2021-2022__01_Winter_Semester/03_INF_Informatics#informatics-inf) (INF)
 - [Technical Components of PC](./AY_2021-2022__01_Winter_Semester/04_TPP_Technical_Components_of_PC#technical-components-of-pc-tpp) (TPP)
 - [3D Printing](./AY_2021-2022__01_Winter_Semester/05_3DT_3D_Printing#3d-printing-3dt) (3DT)
