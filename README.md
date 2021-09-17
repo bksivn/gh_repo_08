@@ -11,13 +11,13 @@
 
 
 
-# Information and network technologies
+# Academic Year 2021/2022
 
 
 ### Winter semester subjects
 
 - [Basics of Electronics](./01__Winter_Semester/01__ZEL_Basics_of_Electronics) (ZEL)
-- [Process Analysis](#!) (MAT)
+- [Process Analysis]() (MAT)
 - [Informatics](./01__Winter_Semester/03__INF_Informatics) (INF)
 - [Technical Components of PC](#!) (TPP)
 - [3D Printing](#!) (3DT)
