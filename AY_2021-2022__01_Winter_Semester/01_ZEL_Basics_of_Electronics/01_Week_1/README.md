@@ -6,8 +6,8 @@
 
 ### Lesson files
 
-- [Lecture](./01__Lecture)
-- [Lab](./02__Lab)
+- [Lecture](./01_Lecture)
+- [Lab](./02_Lab)
 
 
 ### Lesson topics
