@@ -27,12 +27,12 @@
 
 ### Summer semester courses
 
-- [Digital Electronics](#!) (DEL)
-- [Embedded Systems](#!) (VSS)
-- [Algorithms and Data Structures](#!) (AUS)
-- [Computer Networks](#!) (PCS)
-- [Basics of Wireless Networks](#!) (ZBS)
-- [English Language](#!) (ANJ)
+- Digital Electronics (DEL)
+- Embedded Systems (VSS)
+- Algorithms and Data Structures (AUS)
+- Computer Networks (PCS)
+- Basics of Wireless Networks (ZBS)
+- English Language (ANJ)
 
 
 <br/>All files in this repository are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
