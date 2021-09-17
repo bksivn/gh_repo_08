@@ -22,7 +22,7 @@
 - [3D Printing](#!) (3DT)
 - [Computer Networks](#!) (PCS)
 - [Python in Network Applications](#!) (PSA)
-- [English Language](./AY_2021-2022__01_Winter_Semester/08_ANJ_English_Language) (ANJ)
+- [English Language](./AY_2021-2022__01_Winter_Semester/08_ANJ_English_Language#english-language-anj) (ANJ)
 
 
 ### Summer semester courses
