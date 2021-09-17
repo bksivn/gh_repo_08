@@ -34,6 +34,5 @@
 - [Basics of Wireless Networks](#!) (ZBS)
 - [English Language](#!) (ANJ)
 
-<br/>
 
-All files in this repository are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+<br/>All files in this repository are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
