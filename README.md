@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/static/v1?label=License&message=CC%20BY%204.0&color=ffb81c&labelColor=002d72&style=flat-square)](http://creativecommons.org/licenses/by/4.0/)
 
 
-# Study at FRI UNIZA
+# Studies at FRI UNIZA
 
 
 ### Navigation
