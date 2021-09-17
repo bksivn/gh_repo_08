@@ -15,9 +15,9 @@
 
 ### Winter semester subjects
 
-- [Basics of Electronics](./01__Winter_Semester/01__ZEL_Basics_of_Electronics) (ZEL)
+- [Basics of Electronics](./AR_2021-2022/01__Winter_Semester/01__ZEL_Basics_of_Electronics) (ZEL)
 - [Process Analysis](#!) (MAT)
-- [Informatics](./01__Winter_Semester/03__INF_Informatics) (INF)
+- [Informatics](./AR_2021-2022/01__Winter_Semester/03__INF_Informatics) (INF)
 - [Technical Components of PC](#!) (TPP)
 - [3D Printing](#!) (3DT)
 - [Computer Networks](#!) (PCS)
