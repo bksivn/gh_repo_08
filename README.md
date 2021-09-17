@@ -5,18 +5,35 @@
 <br/>
 <br/>
 
-[![Last Update](https://img.shields.io/github/last-commit/bksivn/gh_repo_08?label=Last%20Update&color=ffb81c&labelColor=002d72&style=flat-square)](#!)
+[![Academic Year](https://img.shields.io/static/v1?label=Academic%20Year&message=2021/2022&color=ffb81c&labelColor=002d72&style=flat-square)](#!)
+[![Last Update](https://img.shields.io/github/last-commit/bksivn/gh_repo_08/AR_2021-2022?label=Last%20Update&color=ffb81c&labelColor=002d72&style=flat-square)](#!)
 [![License](https://img.shields.io/static/v1?label=License&message=CC%20BY%204.0&color=ffb81c&labelColor=002d72&style=flat-square)](http://creativecommons.org/licenses/by/4.0/)
 
 
-# Studies at FRI UNIZA
+# Academic Year 2021/2022
 
 
-### Navigation
+### Winter semester subjects
 
-- Academic year 2020/2021
-- [Academic year 2021/2022](../../tree/AR_2021-2022)
-- Academic year 2022/2023
+- [Basics of Electronics](./AY_2021-2022__01_Winter_Semester/01_ZEL_Basics_of_Electronics) (ZEL)
+- [Process Analysis](#!) (MAT)
+- [Informatics](./AY_2021-2022__01_Winter_Semester/03_INF_Informatics) (INF)
+- [Technical Components of PC](#!) (TPP)
+- [3D Printing](#!) (3DT)
+- [Computer Networks](#!) (PCS)
+- [Python in Network Applications](#!) (PSA)
+- [English Language](#!) (ANJ)
 
 
-<br/>All files in this repository are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+### Summer semester subjects
+
+- [Digital Electronics](#!) (DEL)
+- [Embedded Systems](#!) (VSS)
+- [Algorithms and Data Structures](#!) (AUS)
+- [Computer Networks](#!) (PCS)
+- [Basics of Wireless Networks](#!) (ZBS)
+- [English Language](#!) (ANJ)
+
+<br/>
+
+All files in this repository are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
