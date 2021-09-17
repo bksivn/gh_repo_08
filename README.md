@@ -21,7 +21,7 @@
 - [Technical Components of PC](./AY_2021-2022__01_Winter_Semester/04_TPP_Technical_Components_of_PC) (TPP)
 - [3D Printing](./AY_2021-2022__01_Winter_Semester/05_3DT_3D_Printing) (3DT)
 - [Computer Networks](./AY_2021-2022__01_Winter_Semester/06_PCS_Computer_Networks) (PCS)
-- [Python in Network Applications](./AY_2021-2022__01_Winter_Semester/07_PSA_Python_in_Network_Applications) (PSA)
+- [Python in Network Applications](./AY_2021-2022__01_Winter_Semester/07_PSA_Python_in_Network_Applications#python-in-network-applications-psa) (PSA)
 - [English Language](./AY_2021-2022__01_Winter_Semester/08_ANJ_English_Language#english-language-anj) (ANJ)
 
 
