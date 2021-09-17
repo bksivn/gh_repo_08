@@ -15,13 +15,13 @@
 
 ### Winter semester courses
 
-- [Basics of Electronics](./AY_2021-2022__01_Winter_Semester/01_ZEL_Basics_of_Electronics) (ZEL)
-- [Process Analysis](#!) (ANP)
+- [Basics of Electronics](./AY_2021-2022__01_Winter_Semester/01_ZEL_Basics_of_Electronics#basics-of-electronics-zel) (ZEL)
+- [Process Analysis](./AY_2021-2022__01_Winter_Semester/02_ANP_Process_Analysis) (ANP)
 - [Informatics](./AY_2021-2022__01_Winter_Semester/03_INF_Informatics) (INF)
-- [Technical Components of PC](#!) (TPP)
-- [3D Printing](#!) (3DT)
-- [Computer Networks](#!) (PCS)
-- [Python in Network Applications](#!) (PSA)
+- [Technical Components of PC](./AY_2021-2022__01_Winter_Semester/04_TPP_Technical_Components_of_PC) (TPP)
+- [3D Printing](./AY_2021-2022__01_Winter_Semester/05_3DT_3D_Printing) (3DT)
+- [Computer Networks](./AY_2021-2022__01_Winter_Semester/06_PCS_Computer_Networks) (PCS)
+- [Python in Network Applications](./AY_2021-2022__01_Winter_Semester/07_PSA_Python_in_Network_Applications) (PSA)
 - [English Language](./AY_2021-2022__01_Winter_Semester/08_ANJ_English_Language#english-language-anj) (ANJ)
 
 
