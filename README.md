@@ -12,8 +12,8 @@
 
 # Information and Network Technologies
 
-### Courses
-#### Winter Semester
+
+### Winter semester courses
 
 - [Basics of Electronics](./AY_2021-2022__01_Winter_Semester/01_ZEL_Basics_of_Electronics) (ZEL)
 - [Process Analysis](#!) (MAT)
@@ -25,7 +25,7 @@
 - [English Language](#!) (ANJ)
 
 
-#### Summer Semester
+### Summer semester courses
 
 - [Digital Electronics](#!) (DEL)
 - [Embedded Systems](#!) (VSS)
