@@ -10,10 +10,10 @@
 [![License](https://img.shields.io/static/v1?label=License&message=CC%20BY%204.0&color=ffb81c&labelColor=002d72&style=flat-square)](http://creativecommons.org/licenses/by/4.0/)
 
 
-# Information and Network Technologies (IST)
+# Information and Network Technologies
 
-
-### Winter semester subjects
+### Courses
+#### Winter Semester
 
 - [Basics of Electronics](./AY_2021-2022__01_Winter_Semester/01_ZEL_Basics_of_Electronics) (ZEL)
 - [Process Analysis](#!) (MAT)
@@ -25,7 +25,7 @@
 - [English Language](#!) (ANJ)
 
 
-### Summer semester subjects
+#### Summer Semester
 
 - [Digital Electronics](#!) (DEL)
 - [Embedded Systems](#!) (VSS)
